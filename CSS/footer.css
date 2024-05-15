@@ -51,3 +51,7 @@ footer > hr {
 .copyright {
   padding-top: 20px;
 }
+
+.footer_bars {
+  display: none;
+}

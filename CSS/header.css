@@ -20,6 +20,8 @@ header > nav {
   font-family: var(--font-family-main);
   font-size: var(--font-size-big);
   color: var(--green);
+
+  padding: 18px 0;
 }
 
 .gnb {
@@ -41,4 +43,12 @@ header > nav {
 
   color: var(--white);
   background-color: var(--green);
+}
+
+.header_bars {
+  display: none;
+}
+
+.header_bars {
+  color: var(--green);
 }

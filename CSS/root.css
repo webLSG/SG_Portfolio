@@ -28,9 +28,11 @@
   --font-family-important: "Freesentation-9Black";
 
   /* size */
+  --font-size-ExtraSmall: 10px;
   --font-size-small: 12px;
   --font-size-basic: 14px;
   --font-size-big: 27px;
+  --font-size-ExtraLarge: 85px;
   --font-size-huge: 130px;
 
   /* ////////////////////////////////// */
@@ -50,6 +52,12 @@
   --centering-margin: 0 auto;
 
   --max-width-pc: 1480px;
-  --max-width-tbl: 1000px;
-  --max-width-mob: 740px;
+  --max-width-tbl: 840px;
+  --max-width-mob: 640px;
+}
+
+body {
+  font-family: var(--font-family-basic);
+  font-size: var(--font-size-basic);
+  letter-spacing: -0.3px;
 }
