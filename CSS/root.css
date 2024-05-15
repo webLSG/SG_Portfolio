@@ -53,7 +53,7 @@
 
   --max-width-pc: 1480px;
   --max-width-tbl: 840px;
-  --max-width-mob: 640px;
+  --max-width-mob: 500px;
 }
 
 body {
