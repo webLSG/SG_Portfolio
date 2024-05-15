@@ -32,6 +32,7 @@
   --font-size-small: 12px;
   --font-size-basic: 14px;
   --font-size-big: 27px;
+  --font-size-Large: 50px;
   --font-size-ExtraLarge: 85px;
   --font-size-huge: 130px;
 
@@ -53,7 +54,7 @@
 
   --max-width-pc: 1480px;
   --max-width-tbl: 840px;
-  --max-width-mob: 500px;
+  --max-width-mob: 450px;
 }
 
 body {
