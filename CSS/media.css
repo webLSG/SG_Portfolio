@@ -48,22 +48,36 @@
     max-width: var(--max-width-mob);
   }
 
+  /* hero */
+  .hero_jumbotron > h1 {
+    font-size: var(--font-size-Large);
+  }
+
+  /* iam */
+  .iam {
+    padding: 130px 0;
+  }
+
   /* project */
   .project_description_box > h3 {
     font-size: var(--font-size-basic);
   }
   .project_description_box > p {
+    padding: 0 30px;
     font-size: var(--font-size-small);
   }
 
   .project_description_box,
   .project_img_box {
-    padding: 130px 0;
+    padding: 60px 0;
   }
 
   /* contact */
   .contact {
-    padding: 150px 0;
+    padding: 100px 0;
+  }
+  .contact_box {
+    padding: 0;
   }
 
   /* footer */
