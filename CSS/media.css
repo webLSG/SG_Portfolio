@@ -44,7 +44,8 @@
   header > nav,
   .hero_jumbotron,
   .iam_layout,
-  .footer_arr {
+  .footer_arr,
+  .iam > .title {
     max-width: var(--max-width-mob);
   }
 
@@ -56,6 +57,10 @@
   /* iam */
   .iam {
     padding: 130px 0;
+  }
+  .iam_layout {
+    display: flex;
+    flex-direction: column;
   }
 
   /* project */

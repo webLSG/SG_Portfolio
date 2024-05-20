@@ -23,6 +23,7 @@
 
 .iam > .title > p {
   font-size: var(--font-size-small);
+  text-align: center;
 }
 
 .iam_layout {

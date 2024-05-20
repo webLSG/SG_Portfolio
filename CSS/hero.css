@@ -42,4 +42,5 @@
   color: var(--white);
   font-family: var(--font-family-basic);
   font-size: var(--font-size-basic);
+  text-align: center;
 }
